@@ -1,0 +1,25 @@
+{
+	"message": {
+		"text": "",
+		"buttonText": "",
+		"url": "",
+		"versionException": "0.0.1"
+	},
+	"platforms": {
+		"win32": {
+			"version": "0.0.1",
+			"hashURL": "",
+			"appRootURL": ""
+		},
+		"darwin": {
+			"version": "0.0.1",
+			"hashURL": "",
+			"appRootURL": ""
+		},
+		"linux": {
+			"version": "0.0.1",
+			"hashURL": "",
+			"appRootURL": ""
+		}
+	}
+}
