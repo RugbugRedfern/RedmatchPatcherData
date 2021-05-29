@@ -9,7 +9,7 @@
 		"win32": {
 			"version": "0.0.1",
 			"hashURL": "",
-			"appRootURL": ""
+			"appRootURL": "https://raw.githubusercontent.com/RugbugRedfern/RedmatchPatcherData/main/win32/"
 		},
 		"darwin": {
 			"version": "0.0.1",
