@@ -8,8 +8,13 @@
 	"platforms": {
 		"win32": {
 			"version": "0.0.1",
+<<<<<<< HEAD
 			"hashURL": "https://raw.githubusercontent.com/RugbugRedfern/RedmatchPatcherData/main/hash.json",
 			"appRootURL": ""
+=======
+			"hashURL": "",
+			"appRootURL": "https://raw.githubusercontent.com/RugbugRedfern/RedmatchPatcherData/main/win32/"
+>>>>>>> 4f11a4d8810c88e92a1908f26afa9470f10bef28
 		},
 		"darwin": {
 			"version": "0.0.1",
