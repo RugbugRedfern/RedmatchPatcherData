@@ -5,24 +5,7 @@
 		"url": "",
 		"versionException": "0.0.1"
 	},
-	"platforms": {
-		"win32": {
-			"version": "0.0.1",
-			"hashURL": "https://raw.githubusercontent.com/RugbugRedfern/RedmatchPatcherData/main/hash.json",
-			"appRootURL": "https://raw.githubusercontent.com/RugbugRedfern/RedmatchPatcherData/main/win32/",
-			"runPath": "Redmatch 2.exe"
-		},
-		"darwin": {
-			"version": "0.0.1",
-			"hashURL": "",
-			"appRootURL": "",
-			"runPath": ""
-		},
-		"linux": {
-			"version": "0.0.1",
-			"hashURL": "",
-			"appRootURL": "",
-			"runPath": ""
-		}
-	}
+	"version": "0.0.1",
+	"hashURL": "https://raw.githubusercontent.com/RugbugRedfern/RedmatchPatcherData/main/hash.json",
+	"appRootURL": "https://raw.githubusercontent.com/RugbugRedfern/RedmatchPatcherData/main/win32/"
 }
